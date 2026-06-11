@@ -36,25 +36,7 @@ Beyond Solar es un sitio web sobre exoplanetas: planetas que orbitan estrellas f
 
 ---
 
-## Estructura del proyecto
-beyond-solar/
-├── index.html
-├── exoplanets.html
-├── estadisticas.html
-├── metodos.html
-├── contacto.html
-├── styles.css
-├── js/
-│   ├── index.js
-│   ├── nav.js
-│   ├── exoplanets.js
-│   ├── estadisticas.js
-│   ├── metodos.js
-│   ├── contacto.js
-│   └── fondo.js
-└── assets/
-├── images/
-└── videos/
+
 
 ## Cómo ejecutarlo localmente
 
